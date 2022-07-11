@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=DoHan%20LAB&fontSize=60&desc=Develop%20Kernel%20(OS),%20Web%20sites,%20etc.&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=DoHan%20LAB&fontSize=60&desc=Develop%20Kernel%20(OS),%20Web%20sites,%20etc.&descSize=20&rotate=20&fontAlign=70&fontAlignY=30&descAlign=70&descAlignY=40)
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohan-lab&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
